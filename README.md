@@ -1,5 +1,7 @@
 # PokéPy: A Personal Pokémon Python Application
 
+<img width="1200" height="441" alt="International_Pokémon_logo" src="https://github.com/user-attachments/assets/99a454dc-e101-41ce-ac44-15701f9f049d" />
+
 **PokéPy** is an application that indexes the current pool of Pokémon, to date, and allows users to perform common actions of the Pokémon games. 
 
 ## Run program
